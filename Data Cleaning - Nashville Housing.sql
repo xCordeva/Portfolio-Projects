@@ -120,3 +120,5 @@ where RowNum > 1
 
 Alter Table NashHousing
 Drop Column SaleDate,  OwnerAddress, PropertyAddress
+
+
